@@ -4,7 +4,7 @@
 **단단한 머신러닝** (원제: Machine Learning)  
 - 저자 조우쯔화 Zhou Zhihua  
 - 옮긴이 김태헌  
-
+- 
 ##### 목차
 <details>
 <summary>CHAPTER 01 서론 1</summary>
